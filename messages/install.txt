@@ -1,0 +1,7 @@
+SublimeLinter-contrib-revive
+-------------------------------
+
+This linter plugin for SublimeLinter provides an interface to revive.
+
+For more information, please see:
+https://github.com/bokunodev/SublimeLinter-contrib-revive
